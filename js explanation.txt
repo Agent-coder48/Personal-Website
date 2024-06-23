@@ -1,0 +1,15 @@
+Smooth Scrolling for Navigation Links:
+
+Select all navigation links using querySelectorAll.
+Add an event listener for the click event on each link.
+Prevent the default link behavior.
+Get the target element's id from the href attribute and scroll smoothly to it using scrollIntoView.
+Form Validation for the Contact Form:
+
+Select the contact form using querySelector.
+Add an event listener for the submit event.
+Prevent the default form submission.
+Get the values of the form fields.
+Check if any fields are empty and show an alert if they are.
+Validate the email address format using a regular expression.
+If all checks pass, show a success message and reset the form.

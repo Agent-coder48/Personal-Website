@@ -1,0 +1,10 @@
+personal-website/
+├── index.html
+├── about.html
+├── portfolio.html
+├── blog.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── js/
+    └── scripts.js
