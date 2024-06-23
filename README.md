@@ -14,7 +14,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/personal-website.git
+git clone https://github.com/Agent-coder48/personal-website.git
 Navigate to the project directory:
 bash
 Copy code
